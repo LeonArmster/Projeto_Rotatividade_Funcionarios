@@ -1,5 +1,4 @@
 # Projeto_Rotatividade_Funcionarios
-# Employee Attrition Prediction
 
 ## Modelo Preditivo de Rotatividade de Funcionários
 
